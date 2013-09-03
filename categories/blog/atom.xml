@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blog | davidekline]]></title>
-  <link href="http://davidkline.github.io/categories/blog/atom.xml" rel="self"/>
-  <link href="http://davidkline.github.io/"/>
-  <updated>2013-09-03T14:41:36-05:00</updated>
-  <id>http://davidkline.github.io/</id>
+  <link href="http://www.davidekline.com//categories/blog/atom.xml" rel="self"/>
+  <link href="http://www.davidekline.com//"/>
+  <updated>2013-09-03T14:44:56-05:00</updated>
+  <id>http://www.davidekline.com//</id>
   <author>
     <name><![CDATA[David Kline]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Relaunch]]></title>
-    <link href="http://davidkline.github.io/2013/08/29/relaunch/"/>
+    <link href="http://www.davidekline.com//2013/08/29/relaunch/"/>
     <updated>2013-08-29T11:09:00-05:00</updated>
-    <id>http://davidkline.github.io/2013/08/29/relaunch</id>
+    <id>http://www.davidekline.com//2013/08/29/relaunch</id>
     <content type="html"><![CDATA[<p>In case you haven&rsquo;t already noticed, I have relaunched this blog using a static blog generator—<a href="http://octopress.org">Octopress</a>.
 The design of the blog is something I cobbled together by modifying the freely available <a href="http://zespia.tw/Octopress-Theme-Slash">Slash theme</a>
 and takes advantage of <a href="http://www.google.com/fonts">Google Fonts</a>. I am using <a href="http://pages.github.com">GitHub Pages</a> to host the site.</p>

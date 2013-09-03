@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Personal | davidekline]]></title>
-  <link href="http://davidkline.github.io/categories/personal/atom.xml" rel="self"/>
-  <link href="http://davidkline.github.io/"/>
-  <updated>2013-09-03T14:41:36-05:00</updated>
-  <id>http://davidkline.github.io/</id>
+  <link href="http://www.davidekline.com//categories/personal/atom.xml" rel="self"/>
+  <link href="http://www.davidekline.com//"/>
+  <updated>2013-09-03T14:44:56-05:00</updated>
+  <id>http://www.davidekline.com//</id>
   <author>
     <name><![CDATA[David Kline]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Story So Far]]></title>
-    <link href="http://davidkline.github.io/2013/09/03/the-story-so-far/"/>
+    <link href="http://www.davidekline.com//2013/09/03/the-story-so-far/"/>
     <updated>2013-09-03T12:43:00-05:00</updated>
-    <id>http://davidkline.github.io/2013/09/03/the-story-so-far</id>
+    <id>http://www.davidekline.com//2013/09/03/the-story-so-far</id>
     <content type="html"><![CDATA[<p>The problem with escalation is that it makes you take previous accomplishments for
 granted. My peers in the PhD program have achieved the same things I have; while our
 individual stories have differences in detail, our baseline experiences, accomplishments

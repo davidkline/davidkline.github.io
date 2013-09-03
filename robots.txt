@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://davidkline.github.io/sitemap.xml 
+Sitemap: http://www.davidekline.com//sitemap.xml 

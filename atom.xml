@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[davidekline]]></title>
-  <link href="http://davidkline.github.io/atom.xml" rel="self"/>
-  <link href="http://davidkline.github.io/"/>
-  <updated>2013-09-03T14:41:36-05:00</updated>
-  <id>http://davidkline.github.io/</id>
+  <link href="http://www.davidekline.com//atom.xml" rel="self"/>
+  <link href="http://www.davidekline.com//"/>
+  <updated>2013-09-03T14:44:56-05:00</updated>
+  <id>http://www.davidekline.com//</id>
   <author>
     <name><![CDATA[David Kline]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Story So Far]]></title>
-    <link href="http://davidkline.github.io/2013/09/03/the-story-so-far/"/>
+    <link href="http://www.davidekline.com//2013/09/03/the-story-so-far/"/>
     <updated>2013-09-03T12:43:00-05:00</updated>
-    <id>http://davidkline.github.io/2013/09/03/the-story-so-far</id>
+    <id>http://www.davidekline.com//2013/09/03/the-story-so-far</id>
     <content type="html"><![CDATA[<p>The problem with escalation is that it makes you take previous accomplishments for
 granted. My peers in the PhD program have achieved the same things I have; while our
 individual stories have differences in detail, our baseline experiences, accomplishments
@@ -73,9 +73,9 @@ requirements off of my to-do list?</p>
   
   <entry>
     <title type="html"><![CDATA[Relaunch]]></title>
-    <link href="http://davidkline.github.io/2013/08/29/relaunch/"/>
+    <link href="http://www.davidekline.com//2013/08/29/relaunch/"/>
     <updated>2013-08-29T11:09:00-05:00</updated>
-    <id>http://davidkline.github.io/2013/08/29/relaunch</id>
+    <id>http://www.davidekline.com//2013/08/29/relaunch</id>
     <content type="html"><![CDATA[<p>In case you haven&rsquo;t already noticed, I have relaunched this blog using a static blog generator—<a href="http://octopress.org">Octopress</a>.
 The design of the blog is something I cobbled together by modifying the freely available <a href="http://zespia.tw/Octopress-Theme-Slash">Slash theme</a>
 and takes advantage of <a href="http://www.google.com/fonts">Google Fonts</a>. I am using <a href="http://pages.github.com">GitHub Pages</a> to host the site.</p>
@@ -96,9 +96,9 @@ if you want to catch up and we haven&rsquo;t already.</p>
   
   <entry>
     <title type="html"><![CDATA[Two Doors]]></title>
-    <link href="http://davidkline.github.io/2012/06/24/two-doors/"/>
+    <link href="http://www.davidekline.com//2012/06/24/two-doors/"/>
     <updated>2012-06-24T14:53:00-05:00</updated>
-    <id>http://davidkline.github.io/2012/06/24/two-doors</id>
+    <id>http://www.davidekline.com//2012/06/24/two-doors</id>
     <content type="html"><![CDATA[<p>Overdrawn. Laid off. Looking for anything for the time being. Hourly. Streaks of street lights, halogen, as money leaves the tail pipe and eyelids droop down. Back home.</p>
 
 <p>The alarm clock doesn’t need to be alarming. It can display the time. It doesn’t need to remind anyone of anything.</p>
