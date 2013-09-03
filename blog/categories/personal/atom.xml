@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[davidekline]]></title>
-  <link href="http://davidkline.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Personal | davidekline]]></title>
+  <link href="http://davidkline.github.io/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://davidkline.github.io/"/>
   <updated>2013-09-03T14:25:06-05:00</updated>
   <id>http://davidkline.github.io/</id>
@@ -68,66 +68,6 @@ decide I wasn&rsquo;t in charge of my own future and that I must continue on, ch
 requirements off of my to-do list?</p>
 
 <p>I don&rsquo;t know. But I&rsquo;m here now, and fuck it, let&rsquo;s see what happens next.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Relaunch]]></title>
-    <link href="http://davidkline.github.io/blog/2013/08/29/relaunch/"/>
-    <updated>2013-08-29T11:09:00-05:00</updated>
-    <id>http://davidkline.github.io/blog/2013/08/29/relaunch</id>
-    <content type="html"><![CDATA[<p>In case you haven&rsquo;t already noticed, I have relaunched this blog using a static blog generator—<a href="http://octopress.org">Octopress</a>.
-The design of the blog is something I cobbled together by modifying the freely available <a href="http://zespia.tw/Octopress-Theme-Slash">Slash theme</a>
-and takes advantage of <a href="http://www.google.com/fonts">Google Fonts</a>. I am using <a href="http://pages.github.com">GitHub Pages</a> to host the site.</p>
-
-<p>The previous blog is still active <a href="http://superjoyluck.blogspot.com">at its Blogger domain</a>. I will move over select posts
-in the coming weeks.</p>
-
-<p>—David</p>
-
-<p>P.S. I just completed a move from Texas to Michigan. I&rsquo;ll be starting classes next week at U of M Ann Arbor (Go Blue!).
-If I didn&rsquo;t get a chance to say goodbye to you properly before moving 1300 miles away, I&rsquo;m very sorry.
-Moving cross country is difficult and I didn&rsquo;t plan my departure very well. Catch me on <a href="http://www.twitter.com/davidekline">Twitter</a> or send me an email or text
-if you want to catch up and we haven&rsquo;t already.</p>
-
-<p>Till next time&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Two Doors]]></title>
-    <link href="http://davidkline.github.io/blog/2012/06/24/two-doors/"/>
-    <updated>2012-06-24T14:53:00-05:00</updated>
-    <id>http://davidkline.github.io/blog/2012/06/24/two-doors</id>
-    <content type="html"><![CDATA[<p>Overdrawn. Laid off. Looking for anything for the time being. Hourly. Streaks of street lights, halogen, as money leaves the tail pipe and eyelids droop down. Back home.</p>
-
-<p>The alarm clock doesn’t need to be alarming. It can display the time. It doesn’t need to remind anyone of anything.</p>
-
-<p>Phone ringing. Maybe he should have gotten up earlier. Stumbling over cans on the way to the bathroom, phone pinched to his shoulder.</p>
-
-<p>Can I come in today? Yeah, yeah, I can make it.</p>
-
-<p>Fucking ties. The fabric things. Ones you wear on necks.</p>
-
-<p>Driving surface streets now: traffic lights. Water temperature a little hot.</p>
-
-<p>Didn’t know where to park.</p>
-
-<p>Finally inside. Two sets of doors. Air curtain. Nice place. Leased.</p>
-
-<p>Too much experience&mdash;why are you here?</p>
-
-<p>Didn’t matter. They’d call.</p>
-
-<p>Back outside, through the two doors. Looking for his car, has two doors.</p>
-
-<p>Found it. Couldn’t chirp the horn. Not keyless.</p>
-
-<p>Driving back, surface streets, the loop, outside the perimeter.</p>
-
-<p>Shitty rented place.</p>
-
-<p>Squalor.</p>
 ]]></content>
   </entry>
   
